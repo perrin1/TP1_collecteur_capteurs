@@ -1,0 +1,10 @@
+
+* text=auto eol=lf
+
+# Fichiers binaires : aucune conversion.
+*.db        binary
+*.sqlite    binary
+*.png       binary
+*.jpg       binary
+*.pdf       binary
+mesures/resultats.json linguist-generated=true
